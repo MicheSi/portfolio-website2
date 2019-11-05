@@ -2662,6 +2662,7 @@ input, select, textarea {
 	ul.contact {
 		list-style: none;
 		padding: 0;
+		margin-top: 4%;
 	}
 
 		ul.contact li {
